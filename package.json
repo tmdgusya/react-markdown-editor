@@ -1,8 +1,8 @@
 {
-  "name": "@uiw/react-markdown-editor",
-  "version": "3.1.7",
-  "description": "A markdown editor with preview, implemented with React.js and TypeScript.",
-  "homepage": "https://uiwjs.github.io/react-markdown-editor",
+  "name": "@roach-custom/react-markdown-editor",
+  "version": "1.0.0",
+  "description": "It is a customized library to replace CSS. OriginalLibrary : Kenny Wong <wowohoo@qq.com> A markdown editor with preview, implemented with React.js and TypeScript. Custom by Roach Full CSS Editor",
+  "homepage": "https://github.com/tmdgusya/react-markdown-editor",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "typings": "lib/cjs/index.d.ts",
@@ -25,9 +25,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiwjs/react-markdown-editor"
+    "url": "https://github.com/tmdgusya/react-markdown-editor"
   },
-  "author": "Kenny Wong <wowohoo@qq.com>",
+  "author": "roach",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.7.0",
