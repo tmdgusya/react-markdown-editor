@@ -1,6 +1,6 @@
 {
   "name": "roach-down-editor",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "description": "It is a customized library to replace CSS. OriginalLibrary : Kenny Wong <wowohoo@qq.com> A markdown editor with preview, implemented with React.js and TypeScript. Custom by Roach Full CSS Editor",
   "homepage": "https://github.com/tmdgusya/react-markdown-editor",
   "main": "lib/cjs/index.js",
